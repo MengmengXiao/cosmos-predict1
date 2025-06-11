@@ -93,8 +93,8 @@ MODEL_NAME_DICT = {
     "Cosmos-Predict1-7B-Video2World-Sample-AV-Multiview_post-trained": "Cosmos_Predict1_Video2World_7B_Multiview_post-trained",
     "Cosmos-Predict1-7B-WorldInterpolator": "Cosmos_Predict1_WorldInterpolator_7B",
     # single2multiview
-    "Cosmos-Predict1-7B-SingleToMultiView-Sample-AV/t2w_model.pt": "Cosmos_Predict1_Video2World_7B_ViewExtend_Multiview",
-    "Cosmos-Predict1-7B-SingleToMultiView-Sample-AV/v2w_model.pt": "Cosmos_Predict1_Video2World_7B_ViewExtend_Multiview",
+    "Cosmos-Predict1-7B-Video2World-Sample-AV-Single2MultiView/t2w_model.pt": "Cosmos_Predict1_Video2World_7B_ViewExtend_Multiview",
+    "Cosmos-Predict1-7B-Video2World-Sample-AV-Single2MultiView/v2w_model.pt": "Cosmos_Predict1_Video2World_7B_ViewExtend_Multiview",
     "Cosmos-Predict1-7B-SingleToMultiView_post-trained": "Cosmos_Predict1_Video2World_7B_ViewExtend_Multiview",
     # video2world action-conditioned
     "Cosmos-Predict1-7B-Video2World_action_post-trained": "Cosmos_Predict1_Video2World_7B_Action_Post_trained",
